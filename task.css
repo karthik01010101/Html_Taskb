@@ -1,0 +1,20 @@
+header{
+	  background: linear-gradient(180deg,grey,lightgrey);
+	  padding: 10px;
+}
+  nav{
+  	   background-color: grey;
+  	   padding: 8px;
+  }
+  nav a{
+  	     padding: 10px 25px;
+  	     text-decoration: none;
+  	     color: whitesmoke;}
+  nav a:hover{
+  	          color: red;
+  	          display: inline-block;
+
+  }
+  .banner{
+  	       background-image:linear-gradient(rgba(0, 0, 0, 0.75) rgba(0, 0, 0, 0.75));
+  }
